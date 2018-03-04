@@ -1,6 +1,6 @@
 # jQuery Bus Seat Boking
 
-### jQuery Seat Charts (JSC) is a full-blown seat map library. It will generate an accessible map, legend, handle mouse & keyboard events and finally give you powerful selectors to control your map.
+### jQuery Bus Seat Boking is a full-blown seat map library. It will generate an accessible map, legend, handle mouse & keyboard events and finally give you powerful selectors to control your map.
 
 [Simple demo map](http://jsc.mm-lamp.com/)
 
